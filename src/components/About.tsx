@@ -48,7 +48,7 @@ export function About() {
         
         <p>For the rest of us, please enjoy this archive of one of the coolest social media projects I've ever seen.
       </p>
-          <p>If you do happen to notice any issues, you can file a note on GitHub and I'll try to fix it.</p>
+          <p>If you do happen to notice any issues, you can file a note on <a href="https://github.com/yjfan69/lthm/issues" target="_blank">GitHub</a> and I'll try to fix it.</p>
 
           <h2>Credits</h2>
       <ul>
